@@ -1,9 +1,10 @@
-/* 
+
 @import url("./card.css");
 
 *{
     box-sizing: border-box;
-     margin: 0;
+    
+     
 }
 .conteiner{
     max-width: 1170px;
@@ -26,5 +27,15 @@
 .discription{
     font-size: 14px;
     text-align: center;
+    margin-top: 30px;
+    margin-bottom: 0px;
+    color: #86878B;
+}
+ .wrapper{ 
+    display:flex;
+    justify-content:space-around;
+    margin: 0 -15px;
+}
+.card{
     
-} */
+}
