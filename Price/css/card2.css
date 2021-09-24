@@ -1,0 +1,57 @@
+.card2-item_optima{
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 27px;
+    text-align: center;
+    width: 340px;
+    height: 50px;
+    color: #FFFFFF;
+    background: #333333;
+    margin-bottom: 1px ; 
+    padding-top: 15px;
+    padding-bottom: 8px;
+    margin-bottom:2px ;
+    }
+    
+    .card2-item_20{
+    color: #FFFFFF;
+    width: 340px;
+    height: 100px;
+    background: #333333;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    line-height: 41px;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 34px;
+    margin-bottom: 1px;
+    }
+    .card2-item_life{
+    width: 340px;
+    height: 50px;
+    background: #D98943;
+    font-size: 14px;
+    line-height: 19px;
+    text-align: center;
+    padding-top: 17px;
+    padding-bottom: 14px;
+    color: rgba(255, 255, 255, 0.5);
+    margin-bottom: 4px;
+    }
+    .card2-item_list{
+    width: 340px;
+    height: 40px;
+    background: #FFFFFF;
+    font-size: 14px;
+    line-height: 19px;
+    text-align: center;
+    color: #86878B;
+    padding: 10px 0 11px 0;
+    margin-bottom: 4px;
+    
+    }
+    

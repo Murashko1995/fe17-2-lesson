@@ -1,0 +1,51 @@
+
+
+@import url("../css/card1.css");
+@import url("../css/card2.css");
+@import url("../css/card3.css");
+
+
+
+html{
+    font-family: 'Montserrat', sans-serif;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+
+}
+.section{
+    padding: 20px 0 ;
+    background-color:  #E5E5E5;
+}
+.conteiner{
+    max-width: 1170px;
+    padding: 0 15px;
+    margin: auto;
+}
+.header{
+margin: 80px 380px 0 380px;
+width: 409px;
+height: 42px;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+}
+.line{
+width: 64px;
+height: 2px;
+border: 1px solid #E72424;
+margin: 34px auto 34px;
+}
+.subtitle{
+width: 363px; 
+height: 19px; 
+white-space: nowrap;
+margin: 0 403px;
+font-family: Open Sans;
+color: #86878B;
+margin-bottom: 63px;
+}
