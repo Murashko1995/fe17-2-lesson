@@ -1,0 +1,82 @@
+.text{
+    width: 298px;
+    height: 110px;
+    background: #E2E2E2;
+    border-radius: 7px;
+    margin-top: 34px;
+    position: relative;
+    }
+    p{
+    font-family: Open Sans;
+    font-size: 14px;
+    line-height: 19px;
+    align-items: center;
+    text-align: center;
+    color: #86878B;
+    padding: 9px 22px 6px 23px;
+    }
+    .triangle{
+      width: 0; 
+      height: 0; 
+      border-left: 12px solid transparent; 
+      border-right: 12px solid transparent; 
+      border-bottom: 18px solid  #E2E2E2 ;
+      transform: rotate(180deg);
+    
+      position: absolute;
+      top:110px;
+      left: 40px;
+      bottom: 0px;
+    }
+    .card2{
+    width: 70px;
+    height: 70px;
+    overflow: hidden;
+    border-radius: 50%;
+    
+    
+    
+    }
+    .block{
+       
+        width: 230px;
+        height: 100px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 20px;
+        margin-left: 20px;
+        
+    }   
+    
+    .card2-2{
+    width: 120px;
+    height: 56px;
+    text-align: right;
+        
+    }
+    .Murashko{
+    width: 97px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 27px;
+        } 
+    .manager{
+    margin-top: 10px;
+    display: block;
+            
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    color: #86878B;
+    }
+    
+    .item{
+      
+    }
+        
+    

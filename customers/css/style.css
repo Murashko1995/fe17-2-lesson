@@ -1,0 +1,43 @@
+@import url(./card/card.css);
+@import url(./card/card2.css);
+@import url(./card/card3.css);
+html{
+font-family: 'Raleway',"Open Sans" sans-serif;
+}
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.container{
+    max-width: 1170px;
+    margin:auto ;
+    padding: 0 15px;
+}
+.header{
+    width: 668px;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    margin: auto;
+    margin-top: 58px;
+}
+.line{
+width: 64px;
+height: 2px;
+border: 1px solid #E72424;
+margin: auto;
+margin-top: 34px;
+}
+.subtitle{
+
+width: 370px;
+font-family: Open Sans;
+font-size: 14px;
+line-height: 19px;
+color: #86878B;
+margin: auto;
+margin-top: 34px;
+}
